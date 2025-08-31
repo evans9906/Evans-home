@@ -1,8 +1,8 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "博客主页",
+    "link": "http://larryevans.cn/"
   },
   {
     "icon": "Cloud",
@@ -16,22 +16,12 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "外国语电视台",
+    "link": "http://fzwgydst.cn/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Compass",
+    "name": "学务社",
+    "link": "https://xws.fz10.cn/"
   }
 ]
